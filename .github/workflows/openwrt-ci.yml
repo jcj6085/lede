@@ -16,8 +16,8 @@ on:
   push:
     tags:
       - '*'
-    branches: 
-      - master
+#    branches: 
+#     - master
 
 jobs:
 
